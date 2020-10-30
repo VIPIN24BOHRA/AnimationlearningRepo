@@ -68,4 +68,15 @@ text-align: center;
 
 }
 
+.container h2{
+
+  color: white;
+
+  position: absolute;
+ bottom:25%;
+ left:30%;
+  text-align: center;
+
+}
+
 
